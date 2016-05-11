@@ -1,0 +1,120 @@
+/* SpareSpott: */
+body{
+    color: #4A4A4A;
+    font-family: Avenir,sans-serif;
+    width:90%;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    font-size: 14px;
+}
+p#subtitle{
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 0px;
+}
+div#body-text{
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+div#header{
+height: 20%;
+}
+#sparespott-logo{
+    margin-top: 11%;
+    margin-left: 20%;
+}
+#nav-list{
+    margin-top: 9%;
+    text-align: right;
+    margin-right: 7%;
+}
+#title-image{
+    width: 100%;
+    height: auto;
+    display:block;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#title{
+    align-content: center;
+    padding: 0px
+}
+li{
+    display:inline;
+    padding: 10px;
+}
+a{
+    font-weight: 500;
+    font-size: 16px;
+    color:inherit;
+    text-decoration: none;
+}
+.a:visited{
+    text-decoration: none;
+    color:inherit;
+}
+a:hover{
+    cursor:pointer;
+}
+input[type=submit]{
+    width: 100px;
+    height: 40px;
+    background: #0877FF;
+    border: 0px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-size: 16px;
+    letter-spacing: 1.25px;
+    color: #FFFFFF;
+}
+input[type=submit]:hover{
+    background: #2247A0;
+    cursor:pointer;
+}
+input#email-entry{
+    width: 300px;
+    height: 33px;
+    padding-left: 10px;
+    font-size: 14px;
+}
+#pin-image{
+    float: left;
+    padding-right: 10px;
+    margin-left: 8%;
+}
+#calendar-image{
+    float: left;
+    padding-right: 10px;
+    margin-left: 8%;
+}
+#car-image{
+    float: left;
+    padding-right: 10px;
+    margin-left: 8%;
+}
+figcaption {
+    font-weight: bold;
+    font-size: 30px;
+}
+#sign-up{
+    left: 5%;
+    margin-top: .25%;
+}
+#sign-up-text{
+    font-weight: bold;
+    margin-right: 0%;
+    margin-top: 0%;
+}
+#sign-up-text{
+    font-weight: bold;
+    margin-right: 0%;
+    margin-top: 0%;
+}
